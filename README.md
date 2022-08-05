@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sk2k19
-- 👀 I’m interested in development project
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on web development projects 
-- 📫 How to reach me shivamk.ug19.ec@nitp.ac.in
+- 👀 I have deep and keen interest in coding.
+- 🌱 I’m currently learning some advance web technologies. 
+- 📫 How to reach me shivamkanaujiya2002@gmail.com
 
 
 <!---
