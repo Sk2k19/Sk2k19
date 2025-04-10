@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sk2k19
-- 👀 I have deep and keen interest in coding.
-- 🌱 I’m currently learning some advance web technologies. 
-- 📫 How to reach me shivamkanaujiya2002@gmail.com
+ Hey there! I'm @Sk2k19 👨‍💻
+🔍 Passionate about solving real-world problems through code.
+💡 Constantly exploring the depths of web technologies and backend systems.
+🌱 Currently diving into advanced tools like Docker, Kubernetes, Kafka, and more!
+📫 Let's connect: shivamk.ug19@nitp.ac.in
 
 
 <!---
